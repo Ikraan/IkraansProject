@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+{ font-family: 'play', 'sans-serif'; }
+
+@media (min-width: 480px) { 
+  h1 { 
+  font-size: 20px; } 
+  
+h2 { 
+  font-size: 20px; }
+h3 {
+  font-size: 20px }
+}
+p {
+  font-size: 14px
+}
+li {font-size: 14px}
+
+body {
+  background-color #3D3B8E
+} 
+body { font-color:#FFF;
+}
