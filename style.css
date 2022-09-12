@@ -2,21 +2,22 @@
 { font-family: 'play', 'sans-serif'; }
 
 @media (min-width: 480px) { 
-  h1 { 
-  font-size: 20px; } 
-  
-h2 { 
-  font-size: 20px; }
-h3 {
-  font-size: 20px }
-}
-p {
-  font-size: 14px
-}
-li {font-size: 14px}
 
-body {
-  background-color #3D3B8E
-} 
-body { font-color:#FFF;
+body { 
+font-family: 'play', sans-serif;
+font-size: 14px; 
+background-color #3D3B8E;
+font-color: #FFF 
+}
+
+h1,h2,h3 {font-size: 20px;
+}
+
+@media (min-width:960px) and (max-width: 1024px) {
+body { font-size: font size: 26px
+background: #B0E298;
+font-color: #000 
+}
+
+h1,h2,h3 { font-size: 50px
 }
